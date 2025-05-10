@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - 💻 I specialize in **MERN Stack Development** and **Data Structures and Algorithms**.
 - 🌱 I’m constantly learning and exploring **new technologies**.
 - 💬 Feel free to ask me about **MERN Stack** or **DSA**.
-- 📫 How to reach me: [nancygupta2305@gmail.com](mailto:nancygupta2305@gmail.com)
+- 📫 How to reach me: [guptanancy2305@gmail.com](mailto:guptanancy2305@gmail.com)
 - ⚡ Fun fact: I love to sketch and explore new technologies!
 
 ---
