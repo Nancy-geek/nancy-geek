@@ -16,7 +16,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ---
 
 ## 📄 Check My Resume
-[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1TPfM6HjZZvALKzbyOIRU4QJMjoSMSeTd?usp=sharing)
+<a href="https://drive.google.com/drive/u/1/folders/1GTHeoINeov1_PPeQ18fBHzY5OTjstFTi" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+</a>
 
 ---
 
